@@ -60,3 +60,8 @@ footer{
 footer a{
   color: red;
 }
+
+p.bottom{
+  text-align: center;
+}
+
