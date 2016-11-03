@@ -1,0 +1,62 @@
+html{
+  font-size: 16px;
+  clear: both;
+}
+
+body{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+  width: 800px;
+  background-color: darkgray
+}
+
+header{
+  background-color: black;
+  padding: 0.25rem 0.8rem 0.75rem 2rem;
+  color: white;
+}
+nav{
+  background-color: grey;
+  padding: 0.5rem 0.25rem 0.5rem 1.75rem;
+}
+nav a{
+  color: purple;
+  font-weight: bold;
+  padding-right: 4rem;
+  
+}
+article{
+  float: right;
+}
+
+p.story{
+  word-wrap: break-word;
+  width: 28rem;
+}
+
+aside{
+  background-color: purple;
+  color: white;
+  width: 16rem;
+  height: 28rem;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+h3{
+  text-align: center;
+}
+
+aside a{
+  color: darksalmon;
+  font-weight: bold;
+  float: right;
+}
+
+footer{
+  background-color: black;
+  padding: 0.5rem;
+  color: white;
+
+}
+footer a{
+  color: red;
+}
