@@ -45,6 +45,10 @@ h3{
   text-align: center;
 }
 
+figure figcaption{
+  text-align: center;
+}
+
 aside a{
   color: darksalmon;
   font-weight: bold;
